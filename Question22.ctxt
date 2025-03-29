@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question22
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=n
+comment2.target=boolean\ isPalindrome(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

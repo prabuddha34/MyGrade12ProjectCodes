@@ -18,9 +18,3 @@ This repository contains various **Java-based programs** developed for **Grade 1
 ✅ **Java Development Kit (JDK 8+)**  
 ✅ **A Java-supported terminal or IDE**  
 
-### **Steps to Run**  
-1️⃣ Clone this repository or download the project files.  
-2️⃣ Open a terminal or an IDE and navigate to the respective project folder.  
-3️⃣ **Compile the Java file:**  
-   ```sh
-   javac filename.java
